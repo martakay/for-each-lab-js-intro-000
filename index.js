@@ -9,4 +9,5 @@ function iterate( callback ) {
 
   colors.forEach( callback );
 
+  return colors;
 }
