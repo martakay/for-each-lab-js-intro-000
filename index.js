@@ -4,11 +4,9 @@ function iterativeLog( array ) {
   } );
 }
 
-function iterate(callback) {
+function iterate( callback ) {
   var colors = ["purple", "blue", "green", "red"]
 
-  // colors.forEach( color =>
-  // {
-  //
-  // } )
+  colors.forEach( callback );
+
 }
