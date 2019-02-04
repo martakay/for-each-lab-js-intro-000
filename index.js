@@ -7,8 +7,8 @@ function iterativeLog( array ) {
 function iterate(callback) {
   var colors = ["purple", "blue", "green", "red"]
 
-  colors.forEach( color =>
-  {
-    
-  } )
+  // colors.forEach( color =>
+  // {
+  //
+  // } )
 }
