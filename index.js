@@ -11,3 +11,9 @@ function iterate( callback ) {
 
   return colors;
 }
+
+function doToArray( array, callback ) {
+  array.forEach( callback => {
+    
+  })
+}
